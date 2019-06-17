@@ -3,11 +3,9 @@ topic: sample
 languages:
   - csharp
   - fsharp
-  - vbnet
 products:
   - office
   - windows
-  - xbox
 ---
 
 >[!IMPORTANT]
