@@ -13,4 +13,4 @@ products:
 
 # My awesome sample on Azure APIs
 
-Hey folks, there is an awesome sample that I want to share...ttttttttt
+Hey folks, there is an awesome sample that I want to share...tttttttttt
