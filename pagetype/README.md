@@ -6,6 +6,7 @@ languages:
 products:
   - office
   - windows
+  - azure-batch
 ---
 
 >[!IMPORTANT]
