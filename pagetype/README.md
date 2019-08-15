@@ -6,11 +6,10 @@ languages:
 products:
   - office
   - windows
-  - azure-batch-2
 ---
 
 >[!IMPORTANT]
->It's very important to preserve the indent for array elements (`products` and `languages` children) to make sure that the YAML front-matter renders properly.
+>It's very important to preserve the indent for array elements (`products` and `languages` children) to make sure that the YAML front-matter renders properly. batch 1
 
 # My awesome sample on Azure APIs (in page_type folder)
 
