@@ -9,7 +9,7 @@ products:
 ---
 
 >[!IMPORTANT]
->It's very important to preserve the indent for array elements (`products` and `languages` children) to make sure that the YAML front-matter renders properly. batch 1
+>It's very important to preserve the indent for array elements (`products` and `languages` children) to make sure that the YAML front-matter renders properly. batch 2
 
 # My awesome sample on Azure APIs (in page_type folder)
 
