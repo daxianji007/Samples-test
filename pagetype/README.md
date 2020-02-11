@@ -13,6 +13,3 @@ products:
 
 # My awesome sample on Azure APIs (in page_type folder)
 
-Hey folks, there is an awesome sample that I want to share...f1123555 happy path gggg ?????
-
-Test ReferenceAutomation\Samples\RetryPullAndPush.ps1
