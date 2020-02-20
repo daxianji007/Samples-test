@@ -13,3 +13,5 @@ products:
 
 # My awesome sample on Azure APIs (in page_type folder)
 
+try update
+
