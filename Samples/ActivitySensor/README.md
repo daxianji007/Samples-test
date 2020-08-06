@@ -15,12 +15,7 @@ extendedZipContent:
 description: "Shows how to use the ActivitySensor class."
 ---
 
-<!---
-  category: DevicesSensorsAndPower
-  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620478
---->
-
-# Activity detection sensor sample - test1234
+# Activity detection sensor sample - test1234567
 
 Shows how to use the [ActivitySensor](https://msdn.microsoft.com/library/windows/apps/windows.devices.sensors.activitysensor.aspx) 
 class to interact with the activity detection functionality on the system. 
