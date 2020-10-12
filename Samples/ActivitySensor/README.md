@@ -8,6 +8,7 @@ languages:
 products:
 - windows
 - windows-uwp
+- azure-stack-hub
 urlFragment: ActivitySensor
 extendedZipContent:
 - path: SharedContent
