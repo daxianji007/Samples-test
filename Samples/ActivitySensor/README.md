@@ -13,6 +13,8 @@ urlFragment: ActivitySensor
 extendedZipContent:
 - path: SharedContent
   target: SharedContent
+- path: LICENSE
+  target: LICENSE
 description: "Shows how to use the ActivitySensor class."
 ---
 
@@ -21,7 +23,7 @@ description: "Shows how to use the ActivitySensor class."
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620478
 --->
 
-# Activity detection sensor sample - update
+# Activity detection sensor sample - update 2
 
 Shows how to use the [ActivitySensor](https://msdn.microsoft.com/library/windows/apps/windows.devices.sensors.activitysensor.aspx) 
 class to interact with the activity detection functionality on the system. 
