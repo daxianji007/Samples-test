@@ -10,7 +10,6 @@ products:
 - windows-uwp
 - azure-stack-hub
 urlFragment: ActivitySensor
-extendedZipContent:
 description: "Shows how to use the ActivitySensor class."
 ---
 
