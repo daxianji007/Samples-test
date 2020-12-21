@@ -9,12 +9,8 @@ products:
 - windows
 - windows-uwp
 - azure-stack-hub
-urlFragment: ActivitySensor
-extendedZipContent:
-- path: SharedContent
-  target: SharedContent
-- path: LICENSE
-  target: LICENSE
+- invalid-taxonomy
+urlFragment: ActivitySensor2
 description: "Shows how to use the ActivitySensor class."
 ---
 
