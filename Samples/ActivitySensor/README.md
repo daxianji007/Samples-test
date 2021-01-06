@@ -10,6 +10,11 @@ products:
 - windows-uwp
 - azure-stack-hub
 urlFragment: ActivitySensor
+extendedZipContent:
+- path: SharedContent
+  target: SharedContent
+- path: LICENSE
+  target: LICENSE
 description: "Shows how to use the ActivitySensor class."
 ---
 
@@ -21,11 +26,7 @@ description: "Shows how to use the ActivitySensor class."
 # Activity detection sensor sample - update 123
 
 ```
-extendedZipContent:
-- path: SharedContent
-  target: SharedContent
-- path: LICENSE
-  target: LICENSE
+haha
 ```
 
 Shows how to use the [ActivitySensor](https://msdn.microsoft.com/library/windows/apps/windows.devices.sensors.activitysensor.aspx) 
