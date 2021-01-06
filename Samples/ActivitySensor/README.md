@@ -23,7 +23,7 @@ description: "Shows how to use the ActivitySensor class."
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620478
 --->
 
-# Activity detection sensor sample - update 1
+# Activity detection sensor sample - update 123
 
 Shows how to use the [ActivitySensor](https://msdn.microsoft.com/library/windows/apps/windows.devices.sensors.activitysensor.aspx) 
 class to interact with the activity detection functionality on the system. 
