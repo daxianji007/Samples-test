@@ -11,6 +11,9 @@ products:
 - azure-stack-hub
 - invalid-taxonomy
 urlFragment: ActivitySensor2
+extendedZipContent:
+- path: 
+  target: 
 description: "Shows how to use the ActivitySensor class."
 ---
 
