@@ -11,10 +11,6 @@ products:
 - azure-stack-hub
 urlFragment: ActivitySensor
 extendedZipContent:
-- path: SharedContent
-  target: SharedContent
-- path: LICENSE
-  target: LICENSE
 description: "Shows how to use the ActivitySensor class."
 ---
 
