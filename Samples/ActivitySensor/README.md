@@ -11,8 +11,8 @@ products:
 - azure-stack-hub
 urlFragment: ActivitySensor
 extendedZipContent:
-- path: " "
-  target: " "
+- path: null
+  target: null
 description: "Shows how to use the ActivitySensor class."
 ---
 
