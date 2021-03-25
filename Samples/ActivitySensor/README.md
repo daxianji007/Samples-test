@@ -21,7 +21,7 @@ description: "Shows how to use the ActivitySensor class."
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620478
 --->
 
-# Activity detection sensor sample - update 1234
+# Activity detection sensor sample - update 12345
 
 ```
 haha
