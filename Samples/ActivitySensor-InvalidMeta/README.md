@@ -10,7 +10,7 @@ products:
 - windows
 - windows-uwp
 - windows-uwp-invalid
-urlFragment: ActivitySensor
+urlFragment: ActivitySensor-meta
 extendedZipContent:
 - path: SharedContent
   target: SharedContent
