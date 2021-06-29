@@ -15,7 +15,7 @@ extendedZipContent:
 description: "Shows how to use the ActivitySensor class."
 ---
 
-# Activity detection sensor sample - this is main 2!!
+# Activity detection sensor sample - tt
 
 Shows how to use the [ActivitySensor](https://msdn.microsoft.com/library/windows/apps/windows.devices.sensors.activitysensor.aspx) 
 class to interact with the activity detection functionality on the system. 
